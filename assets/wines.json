@@ -1,0 +1,84 @@
+{
+  "wines": [
+    {
+      "wineName": "Ocone Bozzovich Beneventano Bianco IGT",
+      "wineType": "Red wine (Green and Flinty)",
+      "country": "From Champagne Blanc de Blancs, France",
+      "criticScore": "94 / 100",
+      "price": "23,256,596",
+      "imageUrl": "assets/wine1.png",
+      "availability": "Available",
+      "isFavorite": false
+    },
+    {
+      "wineName": "2021 Petit Chablis - Passy Le Clou",
+      "wineType": "White wine (Green and Flinty)",
+      "country": "From Champagne Blanc de Blancs, France",
+      "criticScore": "94 / 100",
+      "price": "23,256,596",
+      "imageUrl": "assets/wine2.png",
+      "availability": "Available",
+      "isFavorite": false
+    },
+    {
+      "wineName": "2021 Cicada's Song Rosé",
+      "wineType": "Rose wine (Green and Flinty)",
+      "country": "From Champagne Blanc de Blancs, France",
+      "criticScore": "94 / 100",
+      "price": "23,256,596",
+      "imageUrl": "assets/wine4.png",
+      "availability": "Available",
+      "isFavorite": false
+    },
+    {
+      "wineName": "Philippe Fontaine Champagne Brut Rosé",
+      "wineType": "Sparkling wine (Green and Flinty)",
+      "country": "From Champagne Blanc de Blancs, France",
+      "criticScore": "94 / 100",
+      "price": "23,256,596",
+      "imageUrl": "assets/wine3.png",
+      "availability": "Unavailable",
+      "isFavorite": true
+    }
+  ],
+  "wineTypes": [
+    {
+      "imageUrl": "assets/pngwing 2.png",
+      "wineType": "Red wines",
+      "count": 123
+    },
+    {
+      "imageUrl": "assets/white_wine.png",
+      "wineType": "White wines",
+      "count": 123
+    },
+    {
+      "imageUrl": "assets/rose_wine.png",
+      "wineType": "Rosé wines",
+      "count": 123
+    },
+    {
+      "imageUrl": "assets/sparkling_wine.png",
+      "wineType": "Sparkling wines",
+      "count": 123
+    }
+  ],
+  "categories": [
+    {
+      "label": "Type",
+      "isSelected": true
+    },
+    {
+      "label": "Style",
+      "isSelected": false
+    },
+    {
+      "label": "Countries",
+      "isSelected": false
+    },
+    {
+      "label": "Grape",
+      "isSelected": false
+    }
+  ]
+}
